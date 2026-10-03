@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of justoverclock/country-flags.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/country-flags) or the [upstream repository](https://github.com/justoverclockl/country-flags).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**13** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-01-29 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-01-29 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v0.1.1) |
+| `0.1.2` | 2022-01-29 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v0.1.2) |
+| `0.1.3` | 2022-01-29 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v0.1.3) |
+| `0.1.4` | 2022-01-29 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v0.1.4) |
+| `0.1.5` | 2022-02-02 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v0.1.5) |
+| `0.1.6` | 2022-02-02 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v0.1.6) |
+| `0.1.7` | 2022-02-03 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v0.1.7) |
+| `0.1.8` | 2022-02-07 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v0.1.8) |
+| `0.1.9` | 2022-02-08 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-country-flags/tree/archive/v0.1.9) |
+
+[View all 13 versions](https://github.com/flarchive/justoverclock-country-flags/tags)
 
 Catalog entry: [packages/justoverclock-country-flags.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-country-flags.json)
 
